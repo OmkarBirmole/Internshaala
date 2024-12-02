@@ -1,2 +1,2 @@
 # Internshaala
-Project
+Github tutorial live session
